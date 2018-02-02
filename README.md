@@ -1,4 +1,4 @@
-Java Tools
+# Chado Java Tools
 
 A set of tools and API to manipulate data stored in chado.
 
